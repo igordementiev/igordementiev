@@ -66,7 +66,7 @@
 7. **ГИС «Защита» (GovTech / АТЗ)**
    Государственная информационная система безопасности объектов города Москвы.
    *Реверс-инжиниринг legacy-архитектуры, описание интеграций (REST API), разработка документации по ГОСТ.*
-   👉 *[Ссылка на папку с проектом](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/07-gis-zashchita)*
+   👉 *[Проект «Защита»](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/07-gis-zashchita)*
 
 8. **Pet-проект: База геолокации IP-адресов (B2B / Open-Source)**
    Разработка базы данных геолокации, построение антифрод системы.
