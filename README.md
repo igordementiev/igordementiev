@@ -56,7 +56,7 @@
 5. **Сервис электронной подписи (FinTech / GovTech)**
    Развитие IT-экосистемы, включая сервис подписи (интеграция с Госключом и Госуслугами) и программу лояльности на базе ЦФА.
    *Разработка C4-моделей, спецификаций требований (BR, US, NFR), проектирование REST API и структуры БД с учетом 152-ФЗ.*
-   👉 *[Ссылка на папку с проектом](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/05-e-signature)*
+   👉 *[Сервис электронной подписи](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/05-e-signature)*
 
 6. **Миграция legacy-логики для JTI (FMCG / Supply Chain)**
    Pre-sale обследование и оценка миграции в контур SAP / 1C / BI.
