@@ -36,7 +36,7 @@
 1. **Экологический мониторинг «Природа» (GovTech, Экологический мониторинг, ГИС)**
    Система сбора и визуализации данных экологического мониторинга. 
    *Проектирование ER-моделей БД, описание контрактов REST API, создание дизайн-макетов, описание сложных справочников НСИ, участие в разработке ПМИ.*
-   👉 *[Ссылка на папку с проектом](https://github.com/igordementiev/system-analysis-portfolio/tree/main/01-ecology-monitoring)*
+   👉 *[Ссылка на папку с проектом](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/01-ecology-monitoring)*
 
 2. **BI-платформа по управлению отходами (GovTech, Управление городским хозяйством, BI-аналитика, Data Architecture)**
    Аналитика на Superset, хранилище Greenplum, ETL через NiFi и Airflow. 
