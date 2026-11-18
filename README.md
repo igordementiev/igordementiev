@@ -61,7 +61,7 @@
 6. **Миграция legacy-логики для JTI (FMCG / Supply Chain)**
    Pre-sale обследование и оценка миграции в контур SAP / 1C / BI.
    *Реверс-инжиниринг макросов, подготовка «ФТ по оптимизации БП», PERT-оценка трудозатрат.*
-   👉 *[Ссылка на папку с проектом](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/06-jti-migration)*
+   👉 *[Пресейл JTI](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/06-jti-migration)*
 
 7. **ГИС «Защита» (GovTech / АТЗ)**
    Государственная информационная система безопасности объектов города Москвы.
