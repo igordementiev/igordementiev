@@ -24,10 +24,10 @@
 **Инструменты:**
 - Jira, Confluence, RedMine
 - Figma, Draw.io, Swagger, Postman
-- Python (базовый), PyCharm, Label Studio
+- Python (базовый), PyCharm (базовый), Label Studio
 
 **Документация:**
-- ЧТЗ, ПЗ, ПМИ, РП, РА, ГОСТ 34.602-2020
+- ЧТЗ, ПЗ, ПМИ, РП, РА.
 
 ### 📂 Избранные проекты
 
