@@ -41,7 +41,7 @@
 2. **BI-платформа по управлению отходами (GovTech, Управление городским хозяйством, BI-аналитика, Data Architecture)**
    Аналитика на Superset, хранилище Greenplum, ETL через NiFi и Airflow. 
    *Проектирование витрин данных (Source-to-Target mapping), разработка алгоритма выявления аномалий («сомнительных рейсов»), описание бизнес-процессов.*
-   👉 *[Проект по управлению отходами](https://github.com/igordementiev/igordementiev/tree/main/02-bi-platform)*
+   👉 *[Проект по управлению отходами](https://github.com/igordementiev/system-analysis-dia-portfolio/tree/main/02-bi-platform)*
 
 3. **Система объективного контроля «Рамка» (IoT + ML)**
    Аппаратно-программный комплекс для мониторинга состояния вагонов метро с использованием тепловизоров и видеокамер.
